@@ -5,10 +5,7 @@ h1{
     width: 40%;
     float: left;
 }
-    
-.making-bold{
 
-}
 .making-good{
     text-decoration: none;
     background-image: linear-gradient(tomato orange);
@@ -16,10 +13,6 @@ h1{
     color: blue;
     padding: 10px 20px;
     border-radius: 10px;
-
-    
-
-    
 }
 .name-change{
     color: red;
